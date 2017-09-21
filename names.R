@@ -12,6 +12,6 @@ print("Hello, my name is [name here]")
 
 print("Joe")
 
-print("Arturo")
+print("")
 
 print("")
